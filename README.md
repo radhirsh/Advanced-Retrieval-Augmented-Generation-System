@@ -186,6 +186,11 @@ pytest unit_testing/
 
 ---
 
+<img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 06_41_32 PM" src="https://github.com/user-attachments/assets/7d30124d-2157-4a1b-9dc6-f56677240a65" />
+
+
+
+
 ## 📈 Future Enhancements
 
 * Agentic RAG
