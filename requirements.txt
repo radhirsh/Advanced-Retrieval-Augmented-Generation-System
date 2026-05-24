@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+langchain-core
+langchain-classic
+langchain_nvidia_ai_endpoints
+langchain_community
+pypdf
+python-dotenv
+pymilvus
+langchain-milvus
+pytest 
+pytest-mock
+unstructured
+python-docx
+pypdf 
+pymupdf
+milvus_lite
